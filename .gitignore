@@ -159,6 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Ignore the dataset since it's too large to push to github
+betfair_dataset.csv
+
 # Ignore config config.py files which store api keys
 config.py
 
