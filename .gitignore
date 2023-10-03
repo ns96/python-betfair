@@ -162,6 +162,9 @@ cython_debug/
 # Ignore the dataset since it's too large to push to github
 betfair_dataset.csv
 betfair_dataset.pkl
+betfair_final.csv
+betfair_final.pkl
+
 # Ignore config config.py files which store api keys
 config.py
 
